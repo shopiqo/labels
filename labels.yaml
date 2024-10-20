@@ -1,0 +1,40 @@
+---
+- description: Something isn't working
+  name: bug
+  color: d73a4a
+
+- description: Pull requests that update a dependency file
+  name: dependencies
+  color: 0366d6
+
+- description: Pull requests that update GitHub Actions code
+  name: github_actions
+  color: 000000
+
+- description: Label for internal purposes and irrelevant for the client
+  name: internal
+  color: 3144D4
+
+- description: Further information is requested
+  name: question
+  color: d876e3
+
+- description: Extra attention is needed
+  name: help wanted
+  color: 008672
+
+- description: This issue or pull request already exists
+  name: duplicate
+  color: 008672
+
+- description: Improvements or additions to documentation
+  name: documentation
+  color: 0075ca
+
+- description: This will not be worked on
+  name: wontfix
+  color: ffffff
+
+- description: This doesn't seem right
+  name: invalid
+  color: e4e669

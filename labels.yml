@@ -46,3 +46,7 @@
 - description: Pull requests that update Javascript code
   name: javascript
   color: "168700"
+
+- description: This issue or pull request will add or improve functionality, maintainability, or ease of use
+  name: improvement
+  color: "168700"
